@@ -1,0 +1,8 @@
+Explanation of the files:
+
+a) part1.py : feature extraction (getting histogram and HOG as features)
+b) part2a.py : doing KNN classification on CIFAR-10 dataset without using inbuilt function ( very slow!)
+c) part2b.py : doing KNN classification on CIFAR-10 dataset using KNeighborsClassifier function from sklearn library.
+d) part3.py :  Visualize the NN classification using PCA
+
+The code also experiments with different values of k during KNN classification
